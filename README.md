@@ -12,5 +12,6 @@ This project is a test project for testing the REST API of the [GitHub project g
 
 ## Open issues and TODOs for the current goals ##
 
-- No tests for OData filter expressions et
-- No tests with attributes using date values yet
+- Using JSON schema validation of *REST-assured* in the API tests.
+- There are no tests for OData filter expressions yet.
+- There are no tests with attributes using date values (ISO-8601) yet.
